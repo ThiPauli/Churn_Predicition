@@ -4,7 +4,7 @@
 ![](https://atrium.ai/wp-content/uploads/2021/07/What-stops-customer-churn-Having-a-centralized-data-hub-does-and-heres-why.jpeg)
 
 Customers are the lifeblood of any business, so companies need to understand churn if they want to grow and adapt to meet their needs. To meet the need of surviving in the competitive environment, the retention of existing customers has become a huge challenge. It is stated that the cost of acquiring a new customer is far more than that for retaining the existing one. One strategy to reduce churn is looking for trends. Analyze the churn data may help companies to notice that most customers leave within a certain timeframe or, perhaps it seems that when a customer uses a certain feature or service, they are less or more likely to churn. Thus, this project focus on:
-- It is a classification problem in order to predict whethear a customer will churn or not the company. The dataset contains less examples of churn customers, which means it is a classification on imbalanced data.
+- It is a classification problem in order to predict whether a customer will churn or not the company. The dataset contains less examples of churn customers, which means it is a classification on imbalanced data.
 - Explore and Analyse the Churn Data to get insights and understand what variables/features are contributing to customer churn.
 - Build a model using deep learning with TensorFlow framework with Keras, class weights to help the model learn from the imbalanced data and evaluate its performace.
 
